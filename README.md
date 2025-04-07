@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Jarbas Esteves
+# 👨🏻‍💻Jarbas Esteves
 
 - 🎓 Estudante de **Ciência da Computação** na [CESAR School](https://www.cesar.school), atualmente no **3º período**.
 -  💻 Apaixonado por tecnologia, desenvolvimento web e criação de jogos. Busco me tornar um desenvolvedor **Full Stack JavaScript**, mas também exploro o universo Godot.
