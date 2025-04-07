@@ -11,7 +11,7 @@ A cada semestre, me sinto mais preparado para contribuir com soluções reais at
 
 
 ### 📓 Projetos
-- O [Bola na Gaveta](https://github.com/Rodrigo603/bolanagaveta) foi desenvolvido em Django, html e css, criado para gerenciar partidas de futebol casualmente.
+- O [Bola na Gaveta](https://github.com/Rodrigo603/bolanagaveta) foi desenvolvido em Django, html e css, criado para gerenciar campeonatos de futebol.
 
 ---
 
