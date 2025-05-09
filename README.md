@@ -10,8 +10,8 @@ A cada semestre, me sinto mais preparado para contribuir com soluções reais at
 
 
 ### 📓 Projetos
-- O [Bola na Gaveta](https://github.com/Rodrigo603/bolanagaveta) foi desenvolvido em Django, html e css, criado para gerenciar campeonatos de futebol.
 - A Lixeira [Jogue na #Velha](https://sites.google.com/cesar.school/grupog8/in%C3%ADcio?authuser=0) tem uma proposta interativa inspirada no jogo da velha, para ajudar na coleta de lixo.
+- O [Bola na Gaveta](https://github.com/Rodrigo603/bolanagaveta) foi desenvolvido em Django, html e css, criado para gerenciar campeonatos de futebol. 
 - Jogo da Cobrinha [SnakeCash](https://github.com/JulioVilasBoas/Jogo-Pif) feito em linguagem C para a disciplina PIF do 2° Período do curso.
 ---
 
